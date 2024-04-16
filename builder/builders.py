@@ -12,7 +12,7 @@ class AbstractBuilder:
         self.strings_starting_points = []
         self.notes_coordenates = None
         self.name_coordenate = None
-        self.font = "/content/creating_chord_collection/builder/times.ttf"
+        self.font = "/content/guitar_chords/builder/times.ttf"
         self.font_size = 50
         self.line_thickness = 3
         self.is_horizontal = None
