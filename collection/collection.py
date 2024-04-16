@@ -1,6 +1,6 @@
 import sqlite3
-from creating_chord_collection.collection.chord import GuitarChord
-from creating_chord_collection.collection.resources.transposable_figures import transposable_figures
+from guitar_chords.collection.chord import GuitarChord
+from guitar_chords.collection.resources.transposable_figures import transposable_figures
 
 class ChordCollection:
     def __init__(self):
