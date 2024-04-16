@@ -1,4 +1,4 @@
-from creating_chord_collection.collection.resources.scales import scales
+from guitar_chords.collection.resources.scales import scales
 from PIL import Image
 
 class Director:
